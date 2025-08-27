@@ -6,7 +6,7 @@ This project involves analyzing insurance data and building regression models to
 
 You can view the full Jupyter notebook here:
 
-[Insurance Cost Analysis Notebook](./Data Analytics for Insurance Cost Data Set.ipynb)
+[Insurance Cost Analysis Notebook](./Data-Analytics-for-Insurance-Cost-Data-Set.ipynb)
 
 ## Data Wrangling and Exploration
 
