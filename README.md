@@ -6,4 +6,4 @@ This project aims to analyze insurance data and build predictive models.
 
 You can view the full Jupyter notebook here:
 
-[Insurance Cost Analysis Notebook](./insurance_cost_analysis.ipynb)
+[Insurance Cost Analysis Notebook](./Data Analytics for Insurance Cost Data Set.ipynb)
