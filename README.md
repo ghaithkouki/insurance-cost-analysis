@@ -8,49 +8,49 @@ We analyze factors like **age, gender, BMI, smoking habits, and region**. Using 
 
 ## 📊 Files / Plots
 
-### 1️⃣ `age_distribution.png`  
+### 1️⃣ `./img/age_distribution.png`  
 - **What it shows:** The age distribution of policyholders.  
 - **Explanation:** Most people are between 18–40 years old, with a few older participants.  
 - **Takeaway:** Age matters for insurance costs—older people usually pay more.  
 
 ---
 
-### 2️⃣ `gender_distribution.png`  
+### 2️⃣ `./img/gender_distribution.png`  
 - **What it shows:** Count of male vs female policyholders.  
 - **Explanation:** Gender is fairly balanced in this dataset.  
 - **Takeaway:** Gender alone doesn’t hugely affect charges, but it’s worth keeping in mind.  
 
 ---
 
-### 3️⃣ `charges_distribution.png`  
+### 3️⃣ `./img/charges_distribution.png`  
 - **What it shows:** How insurance charges are spread across policyholders.  
 - **Explanation:** Most pay lower premiums, but a few high-cost cases stretch the distribution.  
 - **Takeaway:** A few very expensive cases influence averages significantly.  
 
 ---
 
-### 4️⃣ `log_charges_distribution.png`  
+### 4️⃣ `./img/log_charges_distribution.png`  
 - **What it shows:** Log-transformed charges distribution.  
 - **Explanation:** Log transformation reduces skewness and makes the data easier to model.  
 - **Takeaway:** Useful for statistical analysis and predictive modeling.  
 
 ---
 
-### 5️⃣ `charges_by_smoker.png`  
+### 5️⃣ `./img/charges_by_smoker.png`  
 - **What it shows:** Boxplot of charges for smokers vs non-smokers.  
 - **Explanation:** Smokers clearly pay much higher charges.  
 - **Takeaway:** Smoking is a major factor in predicting insurance costs. 🚬💸  
 
 ---
 
-### 6️⃣ `charges_vs_bmi.png`  
+### 6️⃣ `./img/charges_vs_bmi.png`  
 - **What it shows:** Charges vs BMI scatter plot with regression line.  
 - **Explanation:** Higher BMI is linked to higher charges, though the relationship isn’t perfect.  
 - **Takeaway:** BMI is another important factor in insurance cost prediction. ⚖️  
 
 ---
 
-### 7️⃣ `charges_vs_smoker.png`  
+### 7️⃣ `./img/charges_vs_smoker.png`  
 - **What it shows:** Regression of charges vs smoker status (numeric).  
 - **Explanation:** Again confirms that smokers pay more.  
 - **Takeaway:** Smoking status is a key predictor. ✅  
