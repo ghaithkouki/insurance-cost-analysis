@@ -96,6 +96,8 @@ From the plots, the most important factors influencing insurance costs are **smo
 - Split dataset into **training (80%) and testing (20%)**.  
 - Applied **Ridge Regression** to reduce overfitting from multiple correlated features.  
 - Evaluated performance on the test set using **R² score**.
+-Our regression model predicts insurance charges accurately! Most predicted values are very close to the actual charges. (See chart below)
+<img src="img/predicted_vs_actual.png" width="500"/>
 
 **Task 5 Conclusion:**  
 - Ridge Regression improves generalization and stabilizes predictions.  
